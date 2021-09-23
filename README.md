@@ -1,8 +1,9 @@
-# Hello_World
+# Hello_World #
 
-[Project Title](##Project Title##)
-[Description](##Description##)
-[Content](##Content##)
+
+- [Project Title](##Project Title##)
+- [Description](##Description##)
+- [Content](##Content##)
 
 ##Project Title##
 Hello World!

@@ -9,10 +9,11 @@
 
 Hello World!
 
-##Description##
+## Description
+
 My first repository on GitHub. Practicing basic actions and markdown syntax.
 
-##Content##
+## Content
 
 Hi!
 
